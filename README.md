@@ -6,11 +6,15 @@ Foi usado o SwaggerUi para realizar o testes API do Crud com métodos Get, Post,
 
 GET
 ​/api​/Tarefas
+
 POST
 ​/api​/Tarefas
+
 GET
 ​/api​/Tarefas​/{id}
+
 PUT
 ​/api​/Tarefas​/{id}
+
 DELETE
 ​/api​/Tarefas​/{id}
